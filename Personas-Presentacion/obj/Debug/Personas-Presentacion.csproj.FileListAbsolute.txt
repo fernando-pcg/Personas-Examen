@@ -1,0 +1,13 @@
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\bin\Debug\Personas-Presentacion.exe.config
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\bin\Debug\Personas-Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\bin\Debug\Personas-Presentacion.pdb
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\bin\Debug\Personas-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\bin\Debug\Personas-Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas_Presentacion.Form1.resources
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas_Presentacion.Properties.Resources.resources
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.csproj.CopyComplete
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Presentacion\obj\Debug\Personas-Presentacion.pdb

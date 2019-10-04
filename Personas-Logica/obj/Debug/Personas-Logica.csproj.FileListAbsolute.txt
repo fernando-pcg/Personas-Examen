@@ -1,0 +1,6 @@
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\bin\Debug\Personas-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\bin\Debug\Personas-Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\obj\Debug\Personas-Logica.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\obj\Debug\Personas-Logica.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\obj\Debug\Personas-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Personas-Presentacion\Personas-Logica\obj\Debug\Personas-Logica.pdb
